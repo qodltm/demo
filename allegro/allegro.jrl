@@ -1,0 +1,105 @@
+\t (00:00:02) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:02)     Journal start - Tue Jul 16 17:15:13 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=6572 CPUs=4
+\t (00:00:02) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORK\PCB UNDERBAR LIB\allegro\MY_SOS.brd
+\t (00:00:02) 
+   (00:00:02) ilinit Start.
+   (00:00:02) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/USER/DESKTOP/WORK/PCB UNDERBAR LIB/allegro/MY_SOS.brd
+\i (00:00:03) trapsize 14505
+\i (00:00:03) trapsize 14143
+\i (00:00:03) trapsize 14567
+\i (00:00:03) trapsize 12292
+\i (00:00:03) trapsize 13959
+\i (00:00:03) generaledit 
+\i (00:00:11) prmed 
+\i (00:00:13) setwindow form.prmedit
+\i (00:00:13) FORM prmedit cancel  
+\i (00:00:13) setwindow pcb
+\i (00:00:13) generaledit 
+\i (00:00:15) place manual 
+\i (00:00:17) setwindow form.plc_manual
+\i (00:00:17) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\w (00:00:17) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:17) Placing IC1 / ATMEGA168-MLF32_5_MY_ATMEGA328_ / MY_ATMEGA328 on Top.
+\i (00:00:17) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:00:17) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:00:17) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:00:18) FORM plc_manual hide  
+\i (00:00:19) setwindow pcb
+\i (00:00:19) pick grid 8431.47 10497.46
+\t (00:00:19) last pick:  8400.00 10500.00
+\t (00:00:19) Placing IC2 / ATMEGA168-MLF32_5_MY_ATMEGA328_ / MY_ATMEGA328 on Top.
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 9017.77 10357.87
+\i (00:00:21) trapsize 6980
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 9017.77 10357.87
+\i (00:00:21) trapsize 3490
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 9017.77 10357.88
+\i (00:00:21) trapsize 1745
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 9017.77 10357.88
+\i (00:00:21) trapsize 872
+\i (00:00:22) pick grid 9017.77 10357.89
+\t (00:00:22) last pick:  9000.00 10400.00
+\i (00:00:23) Esc 
+\i (00:00:24) roam start
+\i (00:00:25) roam x -64
+\i (00:00:25) roam x -64
+\i (00:00:25) roam x -32
+\i (00:00:25) roam x -16
+\i (00:00:25) roam x -64
+\i (00:00:25) roam x -16
+\i (00:00:25) roam x -64
+\i (00:00:25) roam x -16
+\i (00:00:25) roam x -32
+\i (00:00:26) roam x -16
+\i (00:00:26) roam x -64
+\i (00:00:26) roam end
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 8040.61 10492.25
+\i (00:00:27) trapsize 436
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 8071.14 10482.65
+\i (00:00:28) trapsize 872
+\i (00:00:29) pick grid 7987.39 10765.34
+\t (00:00:29) last pick:  8000.00 10800.00
+\i (00:00:29) Esc 
+\i (00:00:30) pick grid 8760.40 10890.97
+\t (00:00:30) last pick:  8800.00 10900.00
+\i (00:00:30) pick grid 9419.98 10850.84
+\t (00:00:30) last pick:  9400.00 10900.00
+\i (00:00:31) pick grid 9484.54 10381.46
+\t (00:00:31) last pick:  9500.00 10400.00
+\i (00:00:31) pick grid 8783.08 9943.48
+\t (00:00:31) last pick:  8800.00 9900.00
+\i (00:00:31) pick grid 8926.16 10386.69
+\t (00:00:31) last pick:  8900.00 10400.00
+\t (00:00:31) Moving IC2 / ATMEGA168-MLF32_5_MY_ATMEGA328_ / MY_ATMEGA328.
+\t (00:00:31) last pick:  9000.00 10400.00
+\i (00:00:32) pick grid 8950.59 10421.59
+\t (00:00:32) last pick:  9000.00 10400.00
+\i (00:00:33) pick grid 8842.41 10779.30
+\t (00:00:33) last pick:  8800.00 10800.00
+\i (00:00:47) exit 
+\e (00:00:47) Do you want to save the changes you made to MY_SOS.brd?
+\i (00:00:54) fillin menu_cancel 
+\i (00:00:54) generaledit 
+\i (00:00:57) save 
+\i (00:00:58) fillin yes 
+\i (00:00:59) generaledit 
+\i (00:01:00) drag_start grid 7938.54 10932.85
+\i (00:01:00) drag_stop 9395.55 10023.75
+\i (00:01:01) pick grid 8353.83 10168.58
+\t (00:01:01) last pick:  8400.00 10200.00
+\i (00:01:04) exit 
+\t (00:01:04)     Journal end - Tue Jul 16 17:16:16 2019

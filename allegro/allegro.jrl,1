@@ -1,0 +1,146 @@
+\t (00:01:46) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:46)     Journal start - Tue Jul 16 17:05:34 2019
+\t (00:01:46)         Host=USER-PC User=user Pid=908 CPUs=4
+\t (00:01:46) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORK\PCB UNDERBAR LIB\allegro\MY_SOS.brd
+\t (00:01:46) 
+   (00:01:46) ilinit Start.
+   (00:01:46) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:01:47) Opening existing design...
+\d (00:01:47) Design opened: C:/USERS/USER/DESKTOP/WORK/PCB UNDERBAR LIB/allegro/MY_SOS.brd
+\i (00:01:48) trapsize 10372
+\i (00:01:48) trapsize 10186
+\i (00:01:48) trapsize 10404
+\i (00:01:48) trapsize 10599
+\i (00:01:48) trapsize 9189
+\i (00:01:48) trapsize 13682
+\i (00:01:48) generaledit 
+\i (00:01:51) place manual 
+\i (00:01:53) setwindow form.plc_manual
+\i (00:01:53) FORM plc_manual tree 'MULTISEL YES' IC1 'Components by refdes' 
+\w (00:01:53) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:53) Placing IC1 / ATMEGA168-MLF32_5_MY_ATMEGA328_ / MY_ATMEGA328 on Top.
+\i (00:01:53) FORM plc_manual tree  IC1 'Components by refdes' 
+\i (00:01:54) FORM plc_manual tree 'MULTISEL YES' IC2 'Components by refdes' 
+\i (00:01:54) FORM plc_manual tree  IC2 'Components by refdes' 
+\i (00:01:55) FORM plc_manual hide  
+\i (00:01:56) setwindow pcb
+\i (00:01:56) pick grid 9796.02 13271.14
+\t (00:01:56) last pick:  9800.00 13300.00
+\t (00:01:56) Placing IC2 / ATMEGA168-MLF32_5_MY_ATMEGA328_ / MY_ATMEGA328 on Top.
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 10890.55 13407.96
+\i (00:01:59) trapsize 6841
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 10876.87 13407.96
+\i (00:01:59) trapsize 3420
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 10808.47 13380.60
+\i (00:01:59) trapsize 1710
+\i (00:02:00) pick grid 10746.91 13319.04
+\t (00:02:00) last pick:  10700.00 13300.00
+\i (00:02:06) roam start
+\i (00:02:06) roam x -64
+\i (00:02:06) roam x -16
+\i (00:02:07) roam x -48
+\i (00:02:07) roam x -32
+\i (00:02:07) roam x -96
+\i (00:02:07) roam x -96
+\i (00:02:07) roam x -48
+\i (00:02:07) roam end
+\i (00:02:07) zoom in 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in 10076.50 13257.47
+\i (00:02:07) trapsize 855
+\i (00:02:07) zoom in 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in 10076.50 13259.18
+\i (00:02:07) trapsize 428
+\i (00:02:10) pick grid 10569.89 13455.85
+\t (00:02:10) last pick:  10600.00 13500.00
+\t (00:02:10) Moving IC2 / ATMEGA168-MLF32_5_MY_ATMEGA328_ / MY_ATMEGA328.
+\t (00:02:10) last pick:  10700.00 13300.00
+\i (00:02:12) pick grid 10660.53 13248.92
+\t (00:02:12) last pick:  10700.00 13200.00
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out 10201.34 13492.62
+\i (00:02:14) trapsize 855
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out 10280.02 13448.16
+\i (00:02:16) trapsize 1710
+\i (00:02:16) roam start
+\i (00:02:16) roam y 32
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in 10283.45 13319.04
+\i (00:02:17) trapsize 855
+\i (00:02:17) roam end
+\i (00:02:18) roam start
+\i (00:02:18) roam y 32
+\i (00:02:18) roam y 48
+\i (00:02:18) roam y 32
+\i (00:02:18) roam y 32
+\i (00:02:18) roam y -80
+\i (00:02:18) roam y -80
+\i (00:02:18) roam y -32
+\i (00:02:18) roam y -32
+\i (00:02:18) roam y -32
+\i (00:02:19) roam y -16
+\i (00:02:19) roam y -32
+\i (00:02:19) roam y -16
+\i (00:02:19) roam y -16
+\i (00:02:19) roam y -16
+\i (00:02:19) roam y -16
+\i (00:02:19) roam y -16
+\i (00:02:19) roam y -16
+\i (00:02:20) roam end
+\i (00:02:20) zoom in 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom in 10240.70 13613.19
+\i (00:02:20) trapsize 428
+\i (00:02:21) roam start
+\i (00:02:21) roam y -64
+\i (00:02:21) roam x 16
+\i (00:02:21) roam y -32
+\i (00:02:21) roam y -16
+\i (00:02:21) roam y 96
+\i (00:02:21) roam x 16
+\i (00:02:21) roam y 80
+\i (00:02:21) roam y 32
+\i (00:02:22) roam x -16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam x -32
+\i (00:02:22) roam y 16
+\i (00:02:22) roam x -48
+\i (00:02:22) roam x -64
+\i (00:02:22) roam x -16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam x 16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam y 16
+\i (00:02:22) roam x -32
+\i (00:02:22) roam y 16
+\i (00:02:22) roam x -16
+\i (00:02:22) roam y -16
+\i (00:02:22) roam y -16
+\i (00:02:23) roam end
+\i (00:02:31) pick grid 9752.38 12985.50
+\t (00:02:31) last pick:  9800.00 13000.00
+\i (00:08:45) pick grid 10020.03 13008.59
+\t (00:08:45) last pick:  10000.00 13000.00
+\i (00:08:46) save 
+\i (00:08:48) fillin yes 
+\i (00:08:48) generaledit 
+\i (00:08:52) save 
+\i (00:08:57) fillin yes 
+\i (00:08:57) generaledit 
+\i (00:09:41) exit 
+\t (00:09:43)     Journal end - Tue Jul 16 17:13:31 2019

@@ -1,0 +1,17 @@
+{ Using PSTWRITER 16.6.0 d001Jul-16-2019 at 17:15:09 }
+
+#1 WARNING(ORCAP-36006): Part Name "ATMEGA168-MLF32_5_MY_ATMEGA328_ATMEGA168-MLF32" is renamed to "ATMEGA168-MLF32_5_MY_ATMEGA328_".
+#2 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#3" as visible power pin of same name already exists in Package ATmega168-MLF32_5 , IC1: SCHEMATIC1, PAGE1 (2.29, 1.39).
+#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package ATmega168-MLF32_5 , IC1: SCHEMATIC1, PAGE1 (2.29, 1.39).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package ATmega168-MLF32_5 , IC1: SCHEMATIC1, PAGE1 (2.29, 1.39).
+#5 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#5" as visible power pin of same name already exists in Package ATmega168-MLF32_5 , IC1: SCHEMATIC1, PAGE1 (2.29, 1.39).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\USER\DESKTOP\WORK\PCB UNDERBAR LIB\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\PCB UNDERBAR LIB\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\PCB UNDERBAR LIB\allegro/pstxprt.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\PCB UNDERBAR LIB\allegro/pstxnet.dat
+packaging the design view...
