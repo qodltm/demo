@@ -1,0 +1,29 @@
+\t (00:00:08) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:08)     Journal start - Wed Jul 17 12:04:38 2019
+\t (00:00:08)         Host=USER-PC User=user Pid=5116 CPUs=4
+\t (00:00:08) CmdLine= allegro.exe -p .
+\t (00:00:08) 
+   (00:00:08) ilinit Start.
+   (00:00:08) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 2276
+\i (00:00:08) trapsize 2219
+\i (00:00:08) trapsize 2285
+\i (00:00:09) trapsize 2469
+\i (00:00:09) trapsize 2740
+\i (00:00:09) generaledit 
+\i (00:00:13) place manual 
+\i (00:00:14) setwindow form.plc_manual
+\i (00:00:14) FORM plc_manual advanced_settings  
+\i (00:00:15) FORM plc_manual library YES 
+\i (00:00:17) FORM plc_manual placement_list  
+\i (00:00:19) FORM plc_manual categories Package symbols 
+\i (00:00:25) FORM plc_manual tree 'MULTISEL YES' MY_ATMEGA2560 'Package symbols' 
+\i (00:00:25) FORM plc_manual tree  MY_ATMEGA2560 'Package symbols' 
+\i (00:00:26) FORM plc_manual cancel  
+\i (00:00:26) setwindow pcb
+\i (00:00:26) generaledit 
+\i (00:00:27) exit 
+\e (00:00:27) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:28) fillin no 
+\t (00:00:28)     Journal end - Wed Jul 17 12:04:58 2019
