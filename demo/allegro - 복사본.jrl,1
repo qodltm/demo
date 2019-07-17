@@ -1,0 +1,48 @@
+\t (00:00:14) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:14)     Journal start - Wed Jul 17 14:37:37 2019
+\t (00:00:14)         Host=USER-PC User=user Pid=5236 CPUs=4
+\t (00:00:14) CmdLine= allegro.exe -p .
+\t (00:00:14) 
+\d (00:00:14) Design opened: C:/Users/user/Desktop/work/pcb underbar lib/demo/demoa2.brd
+\i (00:00:14) generaledit 
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 1112.2 375.6
+\i (00:00:15) trapsize 171
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 1811.8 321.1
+\i (00:00:17) trapsize 85
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 704.5 471.3
+\i (00:00:19) trapsize 171
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in -71.8 594.1
+\i (00:00:21) trapsize 85
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out -71.8 594.1
+\i (00:00:21) trapsize 171
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 102.3 1252.6
+\i (00:00:23) trapsize 85
+\i (00:00:26) open 
+\i (00:00:35) fillin "menu_cancel"
+\i (00:00:35) generaledit 
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 1112.3 1193.0
+\i (00:00:36) trapsize 171
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 1112.4 1192.9
+\i (00:00:36) trapsize 341
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 3028.4 805.7
+\i (00:00:37) trapsize 171
+\i (00:00:41) exit 
+\t (00:00:41)     Journal end - Wed Jul 17 14:38:04 2019
