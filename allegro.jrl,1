@@ -1,22 +1,26 @@
-\t (00:00:07) allegro 16.6 S034 (v16-6-112CQ) Windows 32
-\t (00:00:07)     Journal start - Wed Jul 17 14:46:20 2019
-\t (00:00:07)         Host=USER-PC User=user Pid=432 CPUs=4
-\t (00:00:07) CmdLine= allegro.exe -p .
-\t (00:00:07) 
-   (00:00:07) ilinit Start.
-   (00:00:07) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
-\t (00:00:08) Starting new design...
-\i (00:00:08) trapsize 2276
-\i (00:00:08) trapsize 2219
-\i (00:00:08) trapsize 2285
-\i (00:00:08) trapsize 2469
-\i (00:00:08) trapsize 2740
-\i (00:00:09) generaledit 
-\i (00:00:13) pick grid 127.677 364.400
-\t (00:00:13) last pick:  127.000 363.220
-\i (00:00:14) open 
-\i (00:00:21) fillin "C:\Users\user\Desktop\work\pcb underbar lib\demo\demoa2.brd"
-\i (00:00:21) cd "C:\Users\user\Desktop\work\pcb underbar lib\demo"
-\t (00:00:21) Opening existing design...
-\i (00:00:21) trapsize 85
-\t (00:00:21)     Journal end - Wed Jul 17 14:46:34 2019
+\t (00:00:05) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:05)     Journal start - Thu Jul 18 08:56:38 2019
+\t (00:00:05)         Host=USER-PC User=user Pid=7520 CPUs=4
+\t (00:00:05) CmdLine= allegro.exe -p .
+\t (00:00:05) 
+   (00:00:05) ilinit Start.
+   (00:00:05) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 2276
+\i (00:00:06) trapsize 2219
+\i (00:00:06) trapsize 2285
+\i (00:00:06) trapsize 2469
+\i (00:00:06) trapsize 2740
+\i (00:00:07) generaledit 
+\i (00:00:47) drag_start grid 127.677 360.016
+\i (00:00:47) drag_stop 497.008 87.127
+\i (00:00:48) drag_start grid 497.008 87.127
+\i (00:00:48) drag_stop 83.839 376.455
+\i (00:00:49) drag_start grid 69.592 398.374
+\i (00:00:49) drag_stop 497.556 62.469
+\i (00:05:08) open 
+\i (00:05:27) fillin "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\democ\democ2.brd"
+\i (00:05:27) cd "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\democ"
+\t (00:05:27) Opening existing design...
+\i (00:05:27) trapsize 582
+\t (00:05:27)     Journal end - Thu Jul 18 09:02:00 2019

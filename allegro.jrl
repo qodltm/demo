@@ -1,20 +1,22 @@
 \t (00:00:04) allegro 16.6 S034 (v16-6-112CQ) Windows 32
-\t (00:00:04)     Journal start - Wed Jul 17 14:48:17 2019
-\t (00:00:04)         Host=USER-PC User=user Pid=6136 CPUs=4
+\t (00:00:04)     Journal start - Thu Jul 18 09:45:27 2019
+\t (00:00:04)         Host=USER-PC User=user Pid=5956 CPUs=4
 \t (00:00:04) CmdLine= allegro.exe -p .
 \t (00:00:04) 
    (00:00:04) ilinit Start.
    (00:00:04) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
-\t (00:00:06) Starting new design...
+\t (00:00:05) Starting new design...
 \i (00:00:06) trapsize 2276
 \i (00:00:06) trapsize 2219
 \i (00:00:06) trapsize 2285
 \i (00:00:06) trapsize 2469
 \i (00:00:06) trapsize 2740
-\i (00:00:07) generaledit 
-\i (00:00:07) open 
-\i (00:00:22) fillin "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demob\demob3.brd"
-\i (00:00:22) cd "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demob"
-\t (00:00:22) Opening existing design...
-\i (00:00:22) trapsize 120
-\t (00:00:22)     Journal end - Wed Jul 17 14:48:35 2019
+\i (00:00:06) generaledit 
+\i (00:00:09) pick grid 193.433 281.656
+\t (00:00:09) last pick:  193.040 281.940
+\i (00:00:11) open 
+\i (00:00:15) fillin "C:\Users\user\Desktop\work\pcb underbar lib\demo\democ4.brd"
+\i (00:00:15) cd "C:\Users\user\Desktop\work\pcb underbar lib\demo"
+\t (00:00:15) Opening existing design...
+\i (00:00:15) trapsize 73
+\t (00:00:15)     Journal end - Thu Jul 18 09:45:37 2019
