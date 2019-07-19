@@ -1,22 +1,20 @@
-\t (00:00:04) allegro 16.6 S034 (v16-6-112CQ) Windows 32
-\t (00:00:04)     Journal start - Thu Jul 18 09:45:27 2019
-\t (00:00:04)         Host=USER-PC User=user Pid=5956 CPUs=4
-\t (00:00:04) CmdLine= allegro.exe -p .
-\t (00:00:04) 
-   (00:00:04) ilinit Start.
-   (00:00:04) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
-\t (00:00:05) Starting new design...
-\i (00:00:06) trapsize 2276
-\i (00:00:06) trapsize 2219
-\i (00:00:06) trapsize 2285
-\i (00:00:06) trapsize 2469
-\i (00:00:06) trapsize 2740
-\i (00:00:06) generaledit 
-\i (00:00:09) pick grid 193.433 281.656
-\t (00:00:09) last pick:  193.040 281.940
-\i (00:00:11) open 
-\i (00:00:15) fillin "C:\Users\user\Desktop\work\pcb underbar lib\demo\democ4.brd"
-\i (00:00:15) cd "C:\Users\user\Desktop\work\pcb underbar lib\demo"
-\t (00:00:15) Opening existing design...
-\i (00:00:15) trapsize 73
-\t (00:00:15)     Journal end - Thu Jul 18 09:45:37 2019
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Thu Jul 18 15:11:00 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=5376 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 2276
+\i (00:00:03) trapsize 2219
+\i (00:00:03) trapsize 2285
+\i (00:00:03) trapsize 2469
+\i (00:00:03) trapsize 2740
+\i (00:00:04) generaledit 
+\i (00:00:07) open 
+\i (00:00:17) fillin "C:\Users\user\Desktop\work\samples\avrusb500_r02\avrusb500_r02\Allegro\allegro\avrusb500.brd"
+\i (00:00:17) cd "C:\Users\user\Desktop\work\samples\avrusb500_r02\avrusb500_r02\Allegro\allegro"
+\t (00:00:17) Opening existing design...
+\i (00:00:17) trapsize 738
+\t (00:00:17)     Journal end - Thu Jul 18 15:11:14 2019

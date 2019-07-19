@@ -1,8 +1,104 @@
 \t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
-\t (00:00:00)     Journal start - Wed Jul 17 14:19:26 2019
-\t (00:00:00)         Host=USER-PC User=user Pid=2188 CPUs=4
+\t (00:00:00)     Journal start - Thu Jul 18 11:44:34 2019
+\t (00:00:00)         Host=USER-PC User=user Pid=6196 CPUs=4
 \t (00:00:00) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\pad_designer.exe
 \t (00:00:00) 
-\i (00:00:02) setwindow form.padedit
-\i (00:00:02) pse_exit
-\t (00:00:02)     Journal end - Wed Jul 17 14:19:28 2019
+\i (00:03:57) setwindow form.padedit
+\i (00:03:57) FORM padedit hole_size_x 0.5 
+\i (00:03:58) FORM padedit hole_type Oval Slot 
+\i (00:04:01) FORM padedit hole_size_y 0.4 
+\i (00:04:06) FORM padedit hole_size_y 1.4 
+\i (00:04:14) FORM padedit layers  
+\i (00:04:30) FORM padedit grid row begin_layer 
+\i (00:04:48) FORM padedit geometry Octagon 
+\i (00:04:54) FORM padedit geometry Oblong 
+\i (00:05:00) FORM padedit width 1.2 
+\i (00:05:03) FORM padedit height 1.9 
+\i (00:05:03) FORM padedit crossbox YES 
+\i (00:05:41) FORM padedit grid rpopup begin_layer Copy 
+\i (00:05:42) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:05:44) setwindow form.padcopy
+\i (00:05:44) FORM padcopy pse_copy_soldermask YES 
+\i (00:06:00) FORM padcopy pse_copy_done  
+\i (00:06:43) setwindow form.padedit
+\i (00:06:43) pse_save_as 
+\i (00:07:41) fillin "C:\Users\user\Desktop\work\avrusb500\symbols\micro_mount.pad"
+\i (00:08:03) FORM padedit parameters  
+\i (00:08:12) FORM padedit hole_size_x 0 
+\i (00:08:13) FORM padedit hole_size_y 0 
+\i (00:08:13) FORM padedit layers  
+\i (00:08:14) FORM padedit single YES 
+\i (00:08:20) FORM padedit grid row begin_layer 
+\i (00:08:55) FORM padedit width 1.10 
+\i (00:08:59) FORM padedit height 1.72 
+\i (00:09:00) FORM padedit geometry Rectangle 
+\i (00:09:04) FORM padedit grid rpopup begin_layer Copy 
+\i (00:09:05) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:09:07) setwindow form.padcopy
+\i (00:09:07) FORM padcopy pse_copy_soldermask YES 
+\i (00:09:07) FORM padcopy pse_copy_pastemask YES 
+\i (00:09:09) FORM padcopy pse_copy_done  
+\i (00:09:17) setwindow form.padedit
+\i (00:09:17) FORM padedit grid row pastemask_top 
+\i (00:09:19) FORM padedit geometry Null 
+\i (00:09:25) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:09:26) setwindow form.padcopy
+\i (00:09:26) FORM padcopy pse_copy_soldermask YES 
+\i (00:09:26) FORM padcopy pse_copy_pastemask YES 
+\i (00:09:27) FORM padcopy pse_copy_done  
+\i (00:09:28) setwindow form.padedit
+\i (00:09:28) FORM padedit grid row soldermask_bottom 
+\i (00:09:30) FORM padedit geometry Circle 
+\i (00:09:30) FORM padedit grid row pastemask_bottom 
+\i (00:09:32) FORM padedit geometry Null 
+\i (00:09:33) FORM padedit grid row soldermask_bottom 
+\i (00:09:34) FORM padedit geometry Null 
+\i (00:09:40) FORM padedit parameters  
+\i (00:09:51) FORM padedit hole_type Circle Drill 
+\i (00:09:51) FORM padedit layers  
+\i (00:09:57) pse_save_as 
+\i (00:10:00) fillin yes 
+\i (00:10:01) fillin "menu_cancel"
+\i (00:10:02) FORM padedit parameters  
+\i (00:10:11) FORM padedit hole_size_x  
+\w (00:10:11) User units conversion failed.
+\i (00:10:11) FORM padedit layers  
+\i (00:10:13) pse_save_as 
+\i (00:11:59) fillin "C:\Users\user\Desktop\work\avrusb500\symbols\micro_sq.pad"
+\i (00:14:13) FORM padedit grid row begin_layer 
+\i (00:14:55) FORM padedit width 0.4 
+\i (00:14:55) FORM padedit grid row soldermask_top 
+\i (00:14:55) FORM padedit grid row begin_layer 
+\i (00:14:58) FORM padedit grid rpopup begin_layer Copy 
+\i (00:14:59) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:15:00) setwindow form.padcopy
+\i (00:15:00) FORM padcopy pse_copy_soldermask YES 
+\i (00:15:01) FORM padcopy pse_copy_done  
+\i (00:15:05) setwindow form.padedit
+\i (00:15:05) FORM padedit grid row soldermask_bottom 
+\i (00:15:07) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:15:08) setwindow form.padcopy
+\i (00:15:08) FORM padcopy pse_copy_soldermask YES 
+\i (00:15:08) FORM padcopy pse_copy_pastemask YES 
+\i (00:15:09) FORM padcopy pse_copy_done  
+\i (00:15:11) setwindow form.padedit
+\i (00:15:11) FORM padedit geometry Null 
+\i (00:15:12) FORM padedit grid row pastemask_bottom 
+\i (00:15:13) FORM padedit geometry Null 
+\i (00:15:17) pse_save_as 
+\i (00:15:21) fillin no 
+\i (00:15:23) FORM padedit parameters  
+\i (00:15:29) FORM padedit hole_size_x  
+\w (00:15:29) User units conversion failed.
+\i (00:15:29) pse_save_as 
+\i (00:15:30) fillin no 
+\i (00:15:41) FORM padedit hole_size_x  
+\w (00:15:41) User units conversion failed.
+\i (00:15:49) FORM padedit hole_size_x 0 
+\i (00:15:51) pse_save_as 
+\i (00:15:57) fillin yes 
+\i (00:16:17) fillin "C:\Users\user\Desktop\work\avrusb500\symbols\micro_usb_gnd.pad"
+\i (00:18:02) pse_save_as 
+\i (00:19:12) fillin "menu_cancel"
+\i (03:26:18) pse_exit
+\t (03:26:18)     Journal end - Thu Jul 18 15:10:52 2019
